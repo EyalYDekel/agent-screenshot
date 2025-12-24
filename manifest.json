@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Agent ScreenShot",
+  "version": "1.1.0",
+  "description": "Autonomous screenshot capture for browser agents",
+  "permissions": [
+    "tabs",
+    "downloads",
+    "windows",
+    "contextMenus"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
