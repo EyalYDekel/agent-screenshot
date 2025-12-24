@@ -1,9 +1,7 @@
 <div align="center">
 
-![Agent ScreenShot Logo](icons/icon128.png)
-
 # Agent ScreenShot
-
+![Agent ScreenShot Logo](icons/icon128.png)
 A Chrome Extension designed for autonomous screenshot capture by browser agents such as Atlas. The extension provides a minimal, agent-friendly interface that allows automated tools to capture screenshots without any system dialogs or user interaction.
 
 </div>
