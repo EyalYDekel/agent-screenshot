@@ -1,5 +1,5 @@
 // GitHub URLs
-const GITHUB_REPO_URL = 'https://github.com/EyalYDekel/agent-screenshot'; // Main repository page (About section)
+const GITHUB_REPO_URL = 'https://github.com/EyalYDekel/agent-screenshot?tab=readme-ov-file#agent-screenshot'; // Main repository page (About section)
 const GITHUB_DISCUSSIONS_URL = 'https://github.com/EyalYDekel/agent-screenshot/discussions?discussions_q=label%3APromptStarter';
 
 // Create context menu items on extension installation
