@@ -1,6 +1,6 @@
 <div align="center">
 
-![Agent ScreenShot Logo](icons/ASS-Logo.png)
+![Agent ScreenShot Logo](icons/icon128.png)
 
 # Agent ScreenShot
 
