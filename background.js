@@ -1,6 +1,6 @@
-// GitHub URLs - Update these after creating the repository
-const GITHUB_REPO_URL = 'https://github.com/EyalYDekel/agent-screenshot';
-const GITHUB_DISCUSSIONS_URL = 'https://github.com/EyalYDekel/agent-screenshot/discussions';
+// GitHub URLs
+const GITHUB_REPO_URL = 'https://github.com/EyalYDekel/agent-screenshot'; // Main repository page (About section)
+const GITHUB_DISCUSSIONS_URL = 'https://github.com/EyalYDekel/agent-screenshot/discussions?discussions_q=label%3APromptStarter';
 
 // Create context menu items on extension installation
 chrome.runtime.onInstalled.addListener(() => {
